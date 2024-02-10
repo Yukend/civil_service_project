@@ -1,0 +1,7 @@
+django==3.2.17
+djangorestframework==3.14.0
+django-rest-framework-social-oauth2==1.0.4
+psycopg2-binary==2.9.5
+asgiref==3.5.0
+sqlparse==0.4.2
+python-dotenv==0.21.1

@@ -25,6 +25,9 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.idea
+my_civil_service_project/*/migrations/
+*.yaml
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
